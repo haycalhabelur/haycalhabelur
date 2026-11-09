@@ -7,7 +7,7 @@
   <a href="https://github.com/haycalhabelur?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-Explore-blue?logo=github"></a>
 </p>
 
-<a href="#haycal-title"><img src="https://github-readme-stats.vercel.app/api?username=haycalhabelur&show_icons=true&hide_border=true&theme=transparent" alt="Haycal's GitHub stats" align="right" /></a>
+<a href="#haycal-title"><img src="https://github-stats-extended.vercel.app/api?username=haycalhabelur&show_icons=true&hide_border=true&theme=transparent" alt="Haycal's GitHub stats" align="right" /></a>
 
 - :computer: &nbsp;I'm interested in **Software Engineering** and **Web Development**
 - :seedling: &nbsp;I'm currently learning **React** and improving my **JavaScript** skills
@@ -61,12 +61,10 @@
 
 <h2 align="left">Coding Activity</h2>
 
-> Follow my latest development activity on GitHub.
+> View my contribution calendar and recent activity on GitHub.
 
 <p align="left">
-  <a href="https://github.com/haycalhabelur">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=haycalhabelur&theme=github-compact&hide_border=true" alt="Haycal's GitHub contribution activity" />
-  </a>
+  <a href="https://github.com/haycalhabelur">See my GitHub contribution activity →</a>
 </p>
 
 <!-- links -->
