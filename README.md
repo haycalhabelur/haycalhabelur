@@ -1,31 +1,33 @@
 # Haycal Habelur
 
-**Software Engineering Student | Web Developer in Progress**
+**Software Engineering Student · Web Development**
 
-I build web projects, learn by experimenting, and turn ideas into working applications.
+I build web projects and learn by turning ideas into practical applications.
 
 ## About
 
 - Interested in software engineering and web development.
-- Focused on frontend development and learning backend fundamentals.
-- Currently exploring React, PHP, and database development.
-- I value clean code, useful features, and continuous improvement.
+- Working with frontend technologies and backend fundamentals.
+- Learning through hands-on projects and experimentation.
+- Focused on writing clear, useful, and maintainable code.
 
 ## Tech Stack
 
-**Core:** HTML · CSS · JavaScript · PHP · MySQL
+**Working with:** HTML · CSS · JavaScript · PHP · MySQL
 
-**Exploring:** React · Git · Bootstrap
+**Currently learning:** React · Python · Django · PostgreSQL
 
 ## Projects
 
-- [Personal Portfolio](https://github.com/haycalhabelur/assas_portofolio_haycal) — Personal website and portfolio.
+- [Personal Portfolio](https://github.com/haycalhabelur/assas_portofolio_haycal) — Personal website project.
 - [Portfolio Practice](https://github.com/haycalhabelur/portofolio_haycal.github.io) — Earlier HTML, CSS, and Bootstrap practice.
+- **Student Management System** — PHP Native and MySQL CRUD project.
+- **ShiroAnime** — Anime streaming website project in development.
 
 ## Current Focus
 
-Building practical web applications, improving my programming fundamentals, and learning how frontend and backend systems work together.
+Improving my web development skills, understanding database integration, and building complete applications from frontend to backend.
 
 ---
 
-**Learn. Build. Improve.**
+*Learn. Build. Improve.*
